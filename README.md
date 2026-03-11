@@ -30,7 +30,7 @@
 
 **2. Install the script**
 
-Download [`cobalt-quick-download.user.js`](cobalt-quick-download.user.js) and drag & drop it into your userscript manager dashboard — or click the file directly if your manager supports auto-install.
+Download [`cobalt-quick-download.user.js`](https://raw.githubusercontent.com/Black0S/Youtube-Cobalt-Download-UserScript/refs/heads/main/youtube-download-colbat.js) and drag & drop it into your userscript manager dashboard — or click the file directly if your manager supports auto-install.
 
 **3. Done**
 
